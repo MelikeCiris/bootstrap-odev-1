@@ -1,0 +1,70 @@
+*{  text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+        
+body{
+ background-color: #E9ECEF;
+}
+.anasayfa{
+    
+    margin: 40px 45px;
+    text-align: center;
+}
+.orta{
+    text-align: center;
+    list-style-type: none;
+    
+}
+.orta1{
+    list-style-type: none;
+    color:green;
+    font:bold;
+
+    
+
+
+
+}
+.btn{
+    position: absolute;
+    /* translate, top ve left degerleri olmadan tam ortalamaz! */
+    
+    left: 46%;
+    top:75%;
+    
+}
+.ekipcard:hover{
+    opacity: 0.8;
+}
+.renk{
+    color:#61764B;
+}
+.link{
+    color:#61764B;
+}
+.link:hover{
+    color:darkred;
+}
+.header{
+    color:#61764B}
+.display-4{
+    color:#61764B;
+}
+.orta{
+    color:#61764B;
+}
+.card-title{
+    color:#61764B;
+    font-size: larger;
+    font:bold;
+}
+.card-text{
+    font:bold;
+    font-family: 'Courier New', Courier, monospace;
+    color:darkolivegreen;
+
+}
+/* Content-End */
+
